@@ -1,17 +1,18 @@
 /* ex 2 */
 
 .odd-num {
-    background-color: lightpink;
+    background-color: rgb(245, 117, 136);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #second {
-    color:blue;
+    color:rgb(21, 21, 201);
     font-size: 36px;
 }
 
 #fourth {
-    color:lightgreen;
+    color:rgb(0, 0, 0);
     font-size: 24px;
     font-weight: bold;
+    background-color:rgb(28, 211, 28);
 }
