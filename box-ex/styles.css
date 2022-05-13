@@ -7,20 +7,18 @@
 
 .one {
     background-color: aqua;
-    border: 0 solid firebrick;
     padding: 3px;
-    height:auto;
-    width: auto;
     border: 30px solid seagreen;
     margin: 5;
+    height:auto;
+    width: auto;
 }
 
 .two {
     background-color: rgb(163, 228, 12);
-    border: 5 solid firebrick;
     padding: 10px;
-    height:auto;
-    width: auto;
     border: 30px solid rgb(0, 0, 0);
     margin: 5;
+    height:auto;
+    width: auto;
 }
