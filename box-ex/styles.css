@@ -1,0 +1,26 @@
+/* Box styles */
+
+* {
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.box.one {
+    background-color: aqua;
+    border: 0 solid firebrick;
+    padding: 3px;
+    height:auto;
+    width: auto;
+    border: 30 px solid seagreen;
+    margin: 5;
+}
+
+.box.two {
+    background-color: aqua;
+    border: 0 solid firebrick;
+    padding: 3px;
+    height:auto;
+    width: auto;
+    border: 30 px solid seagreen;
+    margin: 5;
+}
