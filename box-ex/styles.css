@@ -5,22 +5,22 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.box.one {
+.one {
     background-color: aqua;
     border: 0 solid firebrick;
     padding: 3px;
     height:auto;
     width: auto;
-    border: 30 px solid seagreen;
+    border: 30px solid seagreen;
     margin: 5;
 }
 
-.box.two {
-    background-color: aqua;
-    border: 0 solid firebrick;
-    padding: 3px;
+.two {
+    background-color: rgb(163, 228, 12);
+    border: 5 solid firebrick;
+    padding: 10px;
     height:auto;
     width: auto;
-    border: 30 px solid seagreen;
+    border: 30px solid rgb(0, 0, 0);
     margin: 5;
 }
