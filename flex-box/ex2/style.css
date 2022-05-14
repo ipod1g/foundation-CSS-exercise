@@ -1,24 +1,32 @@
 .header {
     display: flex;
-    background-color: beige;
+    background-color: papayawhip;
+    align-items: center;
+    justify-content: space-between;
+    font-family: monospace;
+    padding: 10px;
 }
 
 .logo {
-    flex:1;
     text-align: center;
     font-weight: bold;
+    font-size: 40px;
+    padding: 5px 30px;
+    background-color: white;
+    color: rgb(252, 0, 21);
 }
 
-.left-links{
-    background-color: blue;
-    justify-content: left;
-    flex: 1;
-    
+ul {
+    list-style-type:none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 8px;
 }
 
-.right-links{
-    flex: 1;
-    background-color: red;
-    align-content:flex-end;
-    justify-content: flex-start;
+a {
+    text-decoration: none;
+    padding: 8px;
+    font-size: 22px;
+    background-color: white;
 }
