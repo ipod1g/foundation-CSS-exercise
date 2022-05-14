@@ -10,8 +10,9 @@
     padding: 3px;
     border: 30px solid seagreen;
     margin: 5px;
-    height:auto;
+    height: auto;
     width: auto;
+    display: inline;
 }
 
 .two {
